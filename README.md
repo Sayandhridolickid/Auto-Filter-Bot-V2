@@ -7,12 +7,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/Sayandhridolickid/Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Sayandhridolickid/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -28,44 +28,14 @@
 
 
 
-#### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
-#### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+#### ഹലോ broi..
+#### ഇത് @Movievibezz നു വേണ്ടി ഉണ്ടാക്കിയ ഒരു auto-filter bot ആണ്.
+#### അതുകൊണ്ട് തന്നെ നിങ്ങൾക്ക് എന്നെ വേറെ ഗ്രൂപ്പിൽ add ചെയ്യാൻ സാധിക്കില്ല 🙂!
+Maintained by: @Ridolickid
 
 ## How to use the bot
-* Add bot to your group with admin rights.
+* sorry, help ചെയ്യാൻ സമയമില്ല, bei🙂
 
-* Add bot to all channels which you want to link with all admin rights!
-
-## Bot Commands - Works in Group only
-
-(You need to be a Auth User in order to use these commands)
-
-* /add channelid  -  Links channel to your group.
-or
-* /add @channelusername - Links channel to your group.
-
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
-
-
-* /del channelid  -  Delinks channel from group
-or
-* /del @channelusername  -  Delinks channel from group
-
-<i>NOTE : You can get connected channel details by /filterstats </i>
-
-
-* /delall  -  Removes all connected channels and filters from group!
-
-* /filterstats  -  Check connected channels and number of filters.
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
 ## Installation
