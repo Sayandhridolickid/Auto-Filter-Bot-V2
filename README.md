@@ -41,7 +41,7 @@ Maintained by: @Ridolickid
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sayandhridolickid/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
